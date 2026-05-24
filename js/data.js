@@ -232,7 +232,7 @@ var PLATFORMS_DATA = [
     "certificate": true,
     "duration": "",
     "level": "",
-    "language": "عربي/إنجليزي",
+    "language": "متعدد اللغات",
     "link": "https://www.netacad.com/catalogs/learn",
     "thumbnail": "https://www.cloudcommunications.com/hubfs/Imported_Blog_Media/Cisco-Nov-17-2023-05-40-40-6925-AM.png",
     "startDate": ""
