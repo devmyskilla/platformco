@@ -695,4 +695,21 @@ var PLATFORMS_DATA = [
     "thumbnail": "https://www.coursat.org/images/logo.png",
     "startDate": ""
   },
+  {
+    "id": "plat-41",
+    "name": "Udemy",
+    "description": "أكبر منصة تعليمية عالمية. تضم أكثر من 200 ألف دورة في جميع المجالات. الكثير من الدورات مجانية والأخرى مدفوعة بأسعار متفاوتة. تمنح شهادات إتمام للدورات المدفوعة.",
+    "description_en": "The world's largest learning platform. Hosts over 200,000 courses in all fields. Many courses are free, others are paid at various prices. Offers completion certificates for paid courses.",
+    "description_tr": "D\u00fcnyan\u0131n en b\u00fcy\u00fck \u00f6\u011frenme platformu. T\u00fcm alanlarda 200.000'den fazla kurs bar\u0131nd\u0131r\u0131r. Bir\u00e7ok kurs \u00fccretsiz, di\u011ferleri \u00e7e\u015fitli fiyatlarla \u00fccretlidir.",
+    "category": "تعليم",
+    "platform": "Udemy",
+    "free": true,
+    "certificate": true,
+    "duration": "",
+    "level": "",
+    "language": "متعدد اللغات",
+    "link": "https://www.udemy.com/courses/",
+    "thumbnail": "https://www.google.com/s2/favicons?domain=udemy.com&sz=128",
+    "startDate": ""
+  },
 ];
